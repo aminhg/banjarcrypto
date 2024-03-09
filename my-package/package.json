@@ -1,32 +1,28 @@
 {
-    "name": "@aminhg/banjarcrypto",
-    "version": "0.0.1",
-    "description": "📦 banjarcrypto",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "files": [
-        "index.js"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/aminhg/banjarcrypto.git"
-    },
-    "keywords": [
-        "npm",
-        "publish",
-        "package",
-        "registry"
-    ],
-    "author": {
-        "name": "aminhg",
-        "email": "aminhg31@gmail.com",
-        "url": "https://aminhg.my.id"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/aminhg/banjarcrypto/issues"
-    },
-    "homepage": "https://github.com/aminhg/banjarcrypto#readme"
+  "name": "@aminhg/banjarcrypto",
+  "version": "1.0.1",
+  "description": "simple add",
+  "main": "index.js",
+  "author": "aminhg",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminhg/banjarcrypto"
+  },
+  "devDependencies": {
+    "typescript": "next"
+  },
+  "dependencies": {
+    "r3sucks": "^1.1.4",
+    "@aminhg/area69_team": "^1.0.10",
+    "@mmoneybbichs/personal-web-api": "1.0.0",
+    "@jjcity/ttviews": "1.0.0",
+    "@umadleets/learning-nodejs": "1.0.0",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10",
+    "tehpoci": "^1.1.4"
+  },
+  "type": "module"
 }
